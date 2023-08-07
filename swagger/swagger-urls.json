@@ -1,0 +1,10 @@
+[
+  {
+    "url": "/swagger/apis/a-swagger.json",
+    "name": "Swag A"
+  },
+  {
+    "url": "/swagger/apis/b-swagger.json",
+    "name": "Swag B"
+  }
+]
